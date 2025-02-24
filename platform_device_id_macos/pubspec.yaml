@@ -21,4 +21,4 @@ flutter:
     platforms:
       macos:
         pluginClass: PlatformDeviceIdMacosPlugin
-        fileName: platform_device_id_macos.dart
+        fileName: macos/Classes/PlatformDeviceIdMacosPlugin.swift
